@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">QiitaClient</string>
+
+    <string name="search_button_text">検索</string>
 </resources>
